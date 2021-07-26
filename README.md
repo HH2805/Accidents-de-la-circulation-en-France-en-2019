@@ -24,3 +24,4 @@ Il inclut :
 - un référentiel du projet et du jeu de données ("codebook")
 - un notebook Jupyter.
 - un classeur Tableau dont la présentation est également consultable en ligne : https://public.tableau.com/app/profile/h.l.ne.hill/viz
+- le Pandas Profile Report du jeu de données.
