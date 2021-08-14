@@ -22,11 +22,14 @@ Cette gravité est codifiée comme suit :
 - Blessé Grave (plus de 24h d'hospitalisation)
 - Décès sous 30 jours
 
-Le jeu de données est téléchargeable sur data.gouv.fr : https://www.data.gouv.fr/fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2019/
+On a testé 8 algorithmes de classification multi-classes : Random Forest, Logistic Regression, XG Boost, CatBoost, GradientBoosting, LightGBM, Extra-Trees, Perceptron
++ les 4 algorithmes du module Imbalanced-Learn.
 
-Un repository github a été créé pour ce projet : https://github.com/HH2805/Accidents-circulation-France-en-2019
-Il inclut :
+Un classeur Tableau est consultable en ligne : https://public.tableau.com/app/profile/h.l.ne.hill/viz
+
+Ce repository github inclut :
 - un référentiel du projet et du jeu de données ("codebook")
-- un notebook Jupyter.
-- un classeur Tableau dont la présentation est également consultable en ligne : https://public.tableau.com/app/profile/h.l.ne.hill/viz
+- le code sous plusieurs notebooks Jupyter.
 - le Pandas Profile Report du jeu de données.
+
+Le jeu de données est téléchargeable sur data.gouv.fr : https://www.data.gouv.fr/fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2019/
