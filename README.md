@@ -17,8 +17,8 @@ et les 4 algorithmes du module Imbalanced-Learn.
 
 Les résultats sont présentés dans un classeur Tableau consultable en ligne : https://public.tableau.com/app/profile/h.l.ne.hill/viz
 
-Ce repository github inclut :
-- un référentiel du projet et du jeu de données ("codebook")
+Le présent repository inclut :
+- un référentiel ("codebook") du projet et du jeu de données.
 - le code sous plusieurs notebooks Jupyter.
 - le Pandas Profile Report du jeu de données.
 
