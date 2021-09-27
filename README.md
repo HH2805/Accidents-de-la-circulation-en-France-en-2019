@@ -3,7 +3,7 @@ Hélène Hiller
 
 ![alt text](http://fastncurious.fr/wp-content/uploads/2017/12/Screenshot-2017-12-27-at-19.53.14.png)
 
-Mini-projet Ironhack Data Analytics DAPT printemps 2021
+Projet Final, Ironhack Data Analytics Bootcamp, fév-août 2021
 
 Lors d'accidents de la route, peut-on prédire la gravité des blessures ?
 
